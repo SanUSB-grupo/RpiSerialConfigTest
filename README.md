@@ -6,8 +6,11 @@ Raspberry Serial Config Test. Arquivo .deb para configurar e testar a porta seri
 
 Raspberry Serial Configuration Test. The .Deb file is used to configure and test the Raspberry (Rpi) serial port (pins Tx and Rx) in versions 1, 2 and 3. It is necessary to previously install the serial minicom terminal (sudo apt-get install minicom). To test the serial port, simply download (sudo wget sanusb.org/tools/serialconfigtest.deb), extract the SerialConfigTest (sudo dpkg -i serialconfigtest.deb), connect a wire (jumper) between the Tx pin (physical pin 8) and Rx (physical pin 10) from Rpi and check at the terminal if the characters sent by pin Tx are received by pin Rx. More details at: http://sanusb.blogspot.com.br/2016/09/configurar-testar-porta-serial-no.html and http://sanusb.org/arquivos/embarcadoslinux.pdf.
 
-###Images
+###Illustration:
 
-Image:
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+
+![](https://github.com/SanUSB-grupo/RpiSerialConfigTest/blob/master/images/serialrpi.jpg)
+
+
+![](https://github.com/SanUSB-grupo/RpiSerialConfigTest/blob/master/images/serialrpi.jpg)
