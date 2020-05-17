@@ -7,7 +7,7 @@ Raspberry Serial Configuration Test. The .Deb file is used to configure and test
 
 Illustration:
 
-![](https://github.com/SanUSB-grupo/RpiSerialConfigTest/blob/master/images/serialrpi.jpg)
+![](https://github.com/SanUSB-grupo/RpiSerialConfigTest/blob/master/images/serialrpi3.jpg)
 
 
 ![](https://github.com/SanUSB-grupo/RpiSerialConfigTest/blob/master/images/OK.png)
